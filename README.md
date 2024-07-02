@@ -1,4 +1,4 @@
-# GoogleMeetsUebung
+# GoogleMeetsUebung - Start 02.07.2024
 
 ## Planung
 
