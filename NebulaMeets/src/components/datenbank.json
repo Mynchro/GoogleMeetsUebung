@@ -1,0 +1,32 @@
+{
+  "anime": [
+    {
+      "id": 1,
+      "name": "Fullmetal Alchemist: Brotherhood",
+      "Erscheinungsjahr": "2009",
+      "Studio": "BONES Inc.",
+      "Beschreibung": "Die beiden Brüder und Alchemisten Edward und Alphonse Elric haben, als sie noch klein waren, einen verhängnisvollen Fehler begangen: Als ihnen die Durchführung einer streng verbotenen Transmutation misslingt, verliert Edward ein Bein. Seinen Bruder trifft es sogar noch schlimmer. Edward kann ihn nur retten, indem er im Zuge eines äquivalenten Tausches seinen eigenen Arm opfert und Alphons Seele an eine Rüstung bindet dessen Körper aber scheint verloren. Ein viel zu hoher Preis, den die beiden für ihren Leichtsinn zahlen mussten. Deshalb beschließen sie alles zu versuchen, um ihre alten Körper zurückzubekommen. Im Bestreben, die besten Forschungsbedingungen auf dem Gebiet der Alchemie zu erlangen, führt sie ihr Weg schließlich zur Armee von Amestris. Die Militärdiktatur des Landes setzt sogenannte Staats-Alchemisten als Elitekämpfer in Kriegen und Konflikten ein. In Friedenszeiten hingegen steht es den »Lakaien der Armee« frei, zu forschen und Zugriff auf umfangreiche Aufzeichnungen über Alchemie, sowie entsprechende finanzielle Mittel zu erhalten. Doch schon bald müssen die beiden Elric-Brüder feststellen, dass ihre eigenen Probleme im Vergleich zu der Bedrohung, die dem Land Amestris droht, geradezu unscheinbar wirken …"
+    },
+    {
+      "id": 2,
+      "name": "Black Lagoon",
+      "Erscheinungsjahr": "2006",
+      "Studio": "MADHOUSE Inc.",
+      "Beschreibung": "Rokurou Okajima ist ein Angestellter einer großen Firma in Tokio. Als sein Schiff auf einer Geschäftsreise in Südost-Asien von einer Gruppe Piraten überfallen wird, wird er als Geisel verschleppt. Die Lagoon Company besteht aus ihrem Anführer Dutch, der schießwütigen Revy und dem Techniker Benny. Die drei haben es nur auf die CD mit Plänen für Atomwaffen abgesehen, die Rokurou dabei hat, und wollen mit seiner Entführung noch etwas Lösegeld rausschlagen. Die Firma interessiert sich aber nicht für das Schicksal von Rokurou, der sich inzwischen mit seinen Entführern angefreundet hat, und entsendet eine handvoll Söldner, um Rokurou und die Piraten auszulöschen. Durch eine rettende Idee von Rokurou werden die Söldner getötet und die Piraten, beeindruckt von seiner Leistung, nehmen ihn in die Crew der »Black Lagoon« auf. Fortan nennt er sich »Rock« und erfüllt für die Lagoon Company Aufträge für die Mafia und verschiedene Verbrechersyndikate."
+    },
+    {
+      "id": 3,
+      "name": "My Hero Academia",
+      "Erscheinungsjahr": "2016",
+      "Studio": "BONES Inc.",
+      "Beschreibung": "Izuku Midoriya lebt in einer Welt, in der die Menschheit „Macken“ genannte Superkräfte entwickelt hat. Doch zu seinem Pech besitzt „nur“ ungefähr 80% der Bevölkerung solch eine Superkraft und Izuku gehört zu den restlichen 20%, die ohne Macke geboren wurden. Fest entschlossen, seinen Traum ein Held zu werden nicht einfach so aufzugeben, bewirbt er sich dennoch an der U.A. High, einer der höchst angesehenen Heldenschulen aller Zeiten. Diese Schule bildet junge Menschen zu Superhelden aus, um die Ganoven, die sich auf der Welt herumtreiben, aus dem Verkehr zu ziehen und unschädlich zu machen. Glücklicherweise sticht Izuku dann dem größten Helden der Geschichte ins Auge: All Might! Dieser versichert ihm, dass auch er ein Held werden kann und hilft ihm beim Training, damit er bei seiner Wunschschule aufgenommen werden kann."
+    },
+    {
+      "id": 4,
+      "name": "One Piece",
+      "Erscheinungsjahr": "1999",
+      "Studio": "Toei Animation co., Ltd.",
+      "Beschreibung": "Reichtum, Macht und Ruhm. Der Mann, der sich dies alles erkämpft hatte, war Gold Roger, der König der Piraten. Als er hingerichtet wurde, waren seine letzten Worte: „Ihr wollt meinen Schatz? Den könnt ihr haben! Sucht ihn doch! Irgendwo habe ich den größten Schatz der Welt versteckt.“ Dieser Schatz ist das One Piece und er liegt irgendwo auf der Grandline. Damit brach das große Piratenzeitalter an … Monkey D. Ruffy ist 17 Jahre alt und hat ein großes Ziel: Er will König der Piraten werden und den Schatz „One Piece“ finden! Ruffy hat besondere Kräfte durch die Teufelsfrucht „GumGum“ erhalten und ist ein Gummimensch. Sein Traum wurde angefeuert durch den Piraten Shanks, der ihm einst das Leben rettete und Ruffy kurz vor seiner Abreise seinen, ihm sehr wichtigen, Strohhut schenkte. Zunächst muss er also eine Mannschaft und ein Schiff finden … Gesagt, getan! Mit dem starken Schwertkämpfer Zorro, dem Lügenbold Usopp, der hübschen Diebin Nami, dem Meisterkoch Sanji und später auch dem Elch Chopper und einigen weiteren Gefährten schafft er sich ein zwar merkwürdiges, doch gelungenes Team. Die nun entstandene Strohhutpiratenbande hat aber viel Ärger mit ihrem durchgeknallten Gummikapitän, doch das ist längst nicht das einzige Problem, denn viele Fieslinge stellen sich der Bande in den Weg. Da wären zum Beispiel Käptn Black, der Usopps Dorf vernichten will, Arlong, der Schuld an Namis düsterer Vergangenheit ist, aber auch die Marine wird sehr schnell aktiv und will die Strohhutbande schnappen …"
+    }
+  ]
+}
