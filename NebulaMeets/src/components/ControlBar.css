@@ -1,0 +1,50 @@
+.control-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #2C2C2C;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+  }
+  
+  .left-section, .center-section, .right-section {
+    display: flex;
+    align-items: center;
+  }
+  
+  .time, .meeting-code {
+    margin: 0 5px;
+  }
+  
+  .divider {
+    margin: 0 10px;
+  }
+  
+  .center-section .icon, .right-section .icon {
+    width: 30px;
+    height: 30px;
+    background-color: #3E3E3E;
+    border-radius: 50%;
+    margin: 0 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+  }
+  
+  .mute { background-image: url('./mute.png'); }
+  .video-off { background-image: url('../img/cam.png'); }
+  .cc { background-image: url('../img/cc.png'); }
+  .share-screen { background-image: url('../img/share.png'); }
+  .raise-hand { background-image: url('../img/hand.png'); }
+  .more-options { background-image: url('../img/more.png'); }
+  .emojis { background-image: url('../img/smily.png'); }
+  .end-call { background-image: url('..img/endCall.png'); }
+  .info { background-image: url(''); }
+  .participants { background-image: url(''); }
+  .chat { background-image: url(''); }
+  .breakout-rooms { background-image: url(''); }
+  .lock { background-image: url(''); }
+  
+  /* Adjust icon background-size */
