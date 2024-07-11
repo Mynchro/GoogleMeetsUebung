@@ -1,13 +1,14 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
-import Emoji from "./components/Emoji";
 import "./App.css";
+import Bilder from "./components/Bilder";
+import Header from "./components/Header";
+import Emoji from "./components/Emoji";
 
 function App() {
   return (
     <>
-      <h1>Hello Nebula Odyssey</h1>
+      <Header />
+      <h1></h1>
+      <Bilder></Bilder>
       <Emoji></Emoji>
     </>
   );

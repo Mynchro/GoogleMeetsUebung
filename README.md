@@ -12,7 +12,7 @@
      - 2x2 Grid (4 Bilder)
    - Komponente 2 (Dennis): Emoji-Leiste
    - Komponente 3 (Maik): Menü-Leiste
-   - Komponente 4 (Marius): Datenbank
+   - Komponente 4 (Marius): Datenbank, Header
 3. Komponenten bearbeiten (jeder für sich)
 4. Komponenten in der App.jsx zusammenfügen
 5. Tests

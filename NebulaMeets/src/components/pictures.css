@@ -1,0 +1,29 @@
+.bilder-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-column-gap: 50px;
+  grid-row-gap: 50px;
+}
+
+.bild {
+  border-radius: 50px;
+  min-width: 482px;
+  min-height: 350px;
+  object-fit: contain;
+}
+
+.anime-name {
+  width: 50%;
+  align-self: center;
+  text-align: center;
+  position: relative;
+  border-radius: 50px !important;
+  top: 292px;
+  right: -123px;
+  color: white;
+  font-size: 19px;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
+}
