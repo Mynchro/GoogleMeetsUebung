@@ -10,7 +10,7 @@ const Header = () => {
     <div className="header">
       <div className="left-side-header">
         <div className="icon">
-          <img src="../assets/breakoutIcon.png" alt="breakoutroom-icon"></img>
+          <img src="/assets/breakoutIcon.png" alt="breakoutroom-icon"></img>
         </div>
         <div className="room-title">
           <p>
