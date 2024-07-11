@@ -10,7 +10,14 @@ const persons = {
     "../src/assets/myheroacademia.webp",
     "../src/assets/blackclover.webp",
   ],
-  names: ["Gorden", "Max", "Gertrude", "Jürgen", "Gandalf", "Alfons"],
+  names: [
+    "One Piece",
+    "Black Lagoon",
+    "Cowboy Bebop",
+    "Jujutsu Kaisen",
+    "My Hero Academia",
+    "Black Clover",
+  ],
 };
 
 const Bilder = () => {
