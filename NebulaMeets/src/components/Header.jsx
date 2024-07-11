@@ -3,22 +3,22 @@ import "../components/header.css";
 const Header = () => {
   return (
     <div className="header">
-      <div className="leftSideHeader">
-        {" "}
+      <div className="left-sideHeader">
         <div className="icon">
           <img src="src/assets/breakoutIcon.png" alt="breakoutroom-icon"></img>
         </div>
-        <div className="roomTitle">
-          <p>In "Breakout 2"</p>
+        <div className="room-title">
+          <p>
+            In {'"'}Breakout 2{'"'}
+          </p>
         </div>
       </div>
-      <div className="rightSideHeader">
-        {" "}
+      <div className="right-sideHeader">
         <div className="help">
-          <p>Ask for help</p>
+          <a href="#">Ask for help</a>
         </div>
-        <div className="returnToMain">
-          <p>Return to main call</p>
+        <div className="return-to-main">
+          <a href="#">Return to main call</a>
         </div>
       </div>
     </div>
