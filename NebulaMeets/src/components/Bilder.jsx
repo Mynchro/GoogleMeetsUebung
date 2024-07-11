@@ -3,7 +3,7 @@ import "./pictures.css";
 
 const persons = {
   paths: [
-    "../src/assets/onepiece.jpg",
+    "../assets/onepiece.jpg",
     "../src/assets/blacklagoon.jpg",
     "../src/assets/cowboybebop.jpeg",
     "../src/assets/jujutsu-kaisen.jpg",
