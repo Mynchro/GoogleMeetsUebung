@@ -3,7 +3,7 @@ import "../components/header.css";
 const Header = () => {
   return (
     <div className="header">
-      <div className="left-sideHeader">
+      <div className="left-side-header">
         <div className="icon">
           <img src="src/assets/breakoutIcon.png" alt="breakoutroom-icon"></img>
         </div>
@@ -13,7 +13,7 @@ const Header = () => {
           </p>
         </div>
       </div>
-      <div className="right-sideHeader">
+      <div className="right-side-header">
         <div className="help">
           <a href="#">Ask for help</a>
         </div>

@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <Header />
-      <h1>Hello Nebula Odyssey</h1>
+      <h1></h1>
       <Bilder></Bilder>
     </>
   );
