@@ -20,11 +20,11 @@ const ControlBar = () => {
         <div className="icon end-call"></div>
       </div>
       <div className="right-section">
-        <div className="icon-info"></div>
-        <div className="icon-people"></div>
-        <div className="icon-chat"></div>
-        <div className="icon-breakout-rooms"></div>
-        <div className="icon-lock"></div>
+        <div className="icon info"></div>
+        <div className="icon participants"></div>
+        <div className="icon chat"></div>
+        <div className="icon activ"></div>
+        <div className="icon lock"></div>
       </div>
     </div>
   )
