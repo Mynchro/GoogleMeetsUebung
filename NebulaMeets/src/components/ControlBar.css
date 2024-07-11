@@ -1,0 +1,47 @@
+.control-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #2C2C2C;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+  }
+  
+  .left-section, .center-section, .right-section {
+    display: flex;
+    align-items: center;
+    width: auto;
+  }
+
+  
+  .center-section .icon, .right-section .icon {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    margin: 0 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+  }
+  
+  .mute { background-image: url('./mute.png'); }
+  .video-off { background-image: url('../img/cam.png'); }
+  .cc { background-image: url('../img/cc.png'); }
+  .share-screen { background-image: url('../img/share.png'); }
+  .raise-hand { background-image: url('../img/hand.png'); }
+  .more-options { background-image: url('../img/more.png'); }
+  .emojis { background-image: url('../img/smily.png'); }
+  .end-call { background-image: url('../img/endCall.png');
+    width: 55px !important;
+    height: 36px !important;
+    border-radius: 20px !important;
+    background-color: #2C2C2C !important;
+  }
+  .info { background-image: url('../img/info.png'); }
+  .participants { background-image: url('../img/person.png'); }
+  .chat { background-image: url('../img/chat.png'); }
+  .activ { background-image: url('../img/forms.png'); }
+  .lock { background-image: url('../img/lock.png'); }
+  

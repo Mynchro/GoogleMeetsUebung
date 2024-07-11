@@ -1,0 +1,11 @@
+{
+  "name": "googlemeetsuebung",
+  "version": "1.0.0",
+  "description": "### Statt der User im Google-Meets werden Thumbnails zu verschiedenen Anime-Serien angezeigt.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
