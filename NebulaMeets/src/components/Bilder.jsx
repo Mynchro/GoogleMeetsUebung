@@ -3,12 +3,12 @@ import "./pictures.css";
 
 const persons = {
   paths: [
-    "/assets/onepiece.jpg",
-    "/assets/blacklagoon.jpg",
-    "/assets/cowboybebop.jpeg",
-    "/assets/jujutsu-kaisen.jpg",
-    "/assets/myheroacademia.webp",
-    "/assets/blackclover.webp",
+    "/images/onepiece.jpg",
+    "/images/blacklagoon.jpg",
+    "/images/cowboybebop.jpeg",
+    "/images/jujutsu-kaisen.jpg",
+    "/images/myheroacademia.webp",
+    "/images/blackclover.webp",
   ],
   names: [
     "One Piece",
