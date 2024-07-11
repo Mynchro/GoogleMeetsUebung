@@ -1,5 +1,3 @@
-import React from "react";
-
 const reactions = [
   { emoji: "💖", label: "Love" },
   { emoji: "👍🏾", label: "Thumbs Up" },
@@ -13,44 +11,52 @@ const reactions = [
 ];
 
 const reactionBarStyle = {
-  display: 'flex',
-  justifyContent: 'space-around',
-  alignItems: 'center',
-  backgroundColor: '#2b2b2b',
-  padding: '5px',
-  borderRadius: '25px',
+  display: "flex",
+  marginTop: "25px",
+  justifyContent: "center",
+  alignItems: "center",
+  backgroundColor: "#2b2b2b",
+  padding: "5px",
+  borderRadius: "25px",
 };
 
 const reactionStyle = {
-  display: 'flex',
-  alignItems: 'center',
-  justifyContent: 'center',
-  fontSize: '1.5rem',
-  width: '35px',
-  height: '35px',
-  cursor: 'pointer',
-  padding: '5px',
-  borderRadius: '50%',
-  transition: 'background-color 0.3s',
+  display: "flex",
+  alignItems: "center",
+  justifyContent: "center",
+  fontSize: "1.5rem",
+  width: "35px",
+  height: "35px",
+  cursor: "pointer",
+  padding: "5px",
+  borderRadius: "50%",
+  transition: "background-color 0.3s",
 };
 
 const Emoji = () => {
   return (
+    <div className="emoji-bar-container">
       <div style={reactionBarStyle}>
-          {reactions.map((reaction, index) => (
-              <span 
-                key={index} 
-                style={reactionStyle} 
-                role="img" 
-                aria-label={reaction.label}
-                onMouseOver={(e) => e.currentTarget.style.backgroundColor = 'rgba(255, 255, 255, 0.2)'}
-                onMouseOut={(e) => e.currentTarget.style.backgroundColor = 'transparent'}>
-
-                  {reaction.emoji}
-              </span>
-          ))}
+        {reactions.map((reaction, index) => (
+          <span
+            key={index}
+            style={reactionStyle}
+            role="img"
+            aria-label={reaction.label}
+            onMouseOver={(e) =>
+              (e.currentTarget.style.backgroundColor =
+                "rgba(255, 255, 255, 0.2)")
+            }
+            onMouseOut={(e) =>
+              (e.currentTarget.style.backgroundColor = "transparent")
+            }
+          >
+            {reaction.emoji}
+          </span>
+        ))}
       </div>
+    </div>
   );
-}
+};
 
 export default Emoji;

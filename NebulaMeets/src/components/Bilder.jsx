@@ -1,4 +1,3 @@
-import React from "react";
 import "./pictures.css";
 // 4 bilder für jeden anime einen
 
