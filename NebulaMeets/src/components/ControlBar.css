@@ -11,20 +11,13 @@
   .left-section, .center-section, .right-section {
     display: flex;
     align-items: center;
+    width: auto;
   }
-  
-  .time, .meeting-code {
-    margin: 0 5px;
-  }
-  
-  .divider {
-    margin: 0 10px;
-  }
+
   
   .center-section .icon, .right-section .icon {
-    width: 30px;
-    height: 30px;
-    background-color: #3E3E3E;
+    width: 35px;
+    height: 35px;
     border-radius: 50%;
     margin: 0 5px;
     display: flex;
@@ -40,11 +33,15 @@
   .raise-hand { background-image: url('../img/hand.png'); }
   .more-options { background-image: url('../img/more.png'); }
   .emojis { background-image: url('../img/smily.png'); }
-  .end-call { background-image: url('..img/endCall.png'); }
-  .info { background-image: url(''); }
-  .participants { background-image: url(''); }
-  .chat { background-image: url(''); }
-  .breakout-rooms { background-image: url(''); }
-  .lock { background-image: url(''); }
+  .end-call { background-image: url('../img/endCall.png');
+    width: 55px !important;
+    height: 36px !important;
+    border-radius: 20px !important;
+    background-color: #2C2C2C !important;
+  }
+  .info { background-image: url('../img/info.png'); }
+  .participants { background-image: url('../img/person.png'); }
+  .chat { background-image: url('../img/chat.png'); }
+  .activ { background-image: url('../img/forms.png'); }
+  .lock { background-image: url('../img/lock.png'); }
   
-  /* Adjust icon background-size */
